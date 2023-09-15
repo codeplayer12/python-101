@@ -1,22 +1,22 @@
-#Integer
+# Defining Integer
 t1_int = 1
 
-#Float
+#Defining Float
 t1_float =  1.0
 
-#Complex Numbers
+#Declaring Complex Numbers
 t1_complex = 3.14j
 
-# hex values
+#Declaring hex values
 t1_hex = 0xa
 
-#Octal
+#Declaring Octal value
 t1_octal =  0o10
 
 # Add Int + Hex + Oct
 print(1 + 0x1 + 0o1)
 
-#Absolute values
+#Print Absolute values
 print(abs(4))
 print(abs(-4))
 
